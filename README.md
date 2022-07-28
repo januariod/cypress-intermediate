@@ -1,6 +1,6 @@
 # _Intermediate_ tests with Cypress
 
-Sample project to demonstrate end-to-end (e2e) tests written with Cypress running on a CI service.
+Sample project to demonstrate end-to-end (e2e) tests written with Cypress.
 
 ## Pre-requirements
 
@@ -44,3 +44,5 @@ Run `npm run cy:open` to open the Cypress Test Runner to run tests in interactiv
 ___
 
 Made with ❤️ by [Daniel Januario](https://github.com/januariod).
+
+Tks to @wlsf82 and TAT School :love_you_gesture:
